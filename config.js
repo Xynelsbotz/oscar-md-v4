@@ -47,29 +47,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Jarotr_' //Link Instagrammu
-global.sgh = 'https://github.com/Alpiii22' //Link Githubmu
+global.sig = 'https://instagram.com/xynels.design' //Link Instagrammu
+global.sgh = 'https://github.com/Xynelsbotz' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda'
 global.sdc = '_'
-global.stg = 'https://instagram.com/Jarotr_'
+global.stg = 'https://instagram.com/xynels.design'
 global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085850539404' //Nomor Danamu
-global.ppulsa = '085850539404' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/jarotoffc' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '05646458928' //Nomor Danamu
+global.ppulsa = '085854337533' //Nomor SimCard Yang Kamu Pake
+global.psaweria = 'https://saweria.co/SayuOgiwaraa4' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281376349712' //Nomor Bot
-global.nomorown = '6285850539404' //Nomor Owner
-global.namebot = 'OSCAR-MULTIDEVICE'  //Nama Bot
-global.nameown = 'Oscar Offc'  // Nama Owner
+global.nomorbot = '6285646458928' //Nomor Bot
+global.nomorown = '6285854337533' //Nomor Owner
+global.namebot = 'INFINELS-BOT'  //Nama Bot
+global.nameown = 'XYNELS'  // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285850539404', '❦ Oscar 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285854337533', '❦ Xynels🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -339,7 +339,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/7dc02d60dae135f592d33.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -371,8 +371,8 @@ global.hsquere = ['⛶','❏','⫹⫺']
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
 global.stickauth = `☂︎\nO\nS\nC\nR\nO\nF\C-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ OSCAR'
+global.packname = 'INFINELS'
+global.packname2 = 'By Xynels'
 
 global.multiplier = 38 // The higher, The harder levelup
 
