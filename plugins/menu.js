@@ -47,6 +47,11 @@ const defaultMenu = {
 ┆┆⬡ *🅛︎* = Limit
 ┗─────────────────⬣
 
+*Follow:*
+Instagram : instagram.com/xynels.design
+*🛍️Owner membuka jasa desain game*
+Chat Owner : wa.me/6285854337533
+
 %readmore
 `.trimStart(),
   header: '%cc *%category* %c1',
